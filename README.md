@@ -34,4 +34,14 @@ The tested website may sometimes show bot verification because it detects automa
 Run the tests using:
 
 ```bash
-mvn test
+mvn tes
+
+
+
+
+
+## Note
+
+This project was created for QA automation practice and portfolio purposes.
+
+The tested website may sometimes show bot verification or block automated execution, so some tests may not run consistently every time. The main goal of this project is to demonstrate automation structure, Selenium usage, TestNG, Maven, and Page Object Model.t

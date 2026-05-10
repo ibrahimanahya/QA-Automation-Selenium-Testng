@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="QA Test Suite">
+    <test name="Automation Test Store Tests">
+        <classes>
+            <class name="testStore.MyTest"/>
+        </classes>
+    </test>
+</suite>

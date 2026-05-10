@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [QA Test Suite]">
+  <test thread-count="5" name="Automation Test Store Tests(failed)">
+    <classes>
+      <class name="testStore.MyTest">
+        <methods>
+          <include name="Login"/>
+          <include name="BeforeMyTest"/>
+          <include name="SignUp"/>
+          <include name="AfterMyTest"/>
+        </methods>
+      </class> <!-- testStore.MyTest -->
+    </classes>
+  </test> <!-- Automation Test Store Tests(failed) -->
+</suite> <!-- Failed suite [QA Test Suite] -->
